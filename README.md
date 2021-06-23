@@ -1,3 +1,5 @@
 ## Welcome to GitHub Pages
 
-[Link to notebook](sample_web_page.html)
+<span style="font-weight: bold; color:red; font-size: 150%;">Hey! The link is here:</span>
+
+[**Link to notebook**](sample_web_page.html)
